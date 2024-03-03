@@ -1,0 +1,11 @@
+{
+    "name": "Parint",
+    "alias": "parint",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Parint\\App\\Providers\\ParintServiceProvider"
+    ],
+    "files": []
+}

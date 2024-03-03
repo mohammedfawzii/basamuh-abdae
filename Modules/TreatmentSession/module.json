@@ -1,0 +1,11 @@
+{
+    "name": "TreatmentSession",
+    "alias": "treatmentsession",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TreatmentSession\\App\\Providers\\TreatmentSessionServiceProvider"
+    ],
+    "files": []
+}

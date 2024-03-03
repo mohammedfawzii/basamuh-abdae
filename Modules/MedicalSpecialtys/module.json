@@ -1,0 +1,11 @@
+{
+    "name": "MedicalSpecialtys",
+    "alias": "medicalspecialtys",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MedicalSpecialtys\\App\\Providers\\MedicalSpecialtysServiceProvider"
+    ],
+    "files": []
+}

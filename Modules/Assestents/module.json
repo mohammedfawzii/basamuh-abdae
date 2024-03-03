@@ -1,0 +1,11 @@
+{
+    "name": "Assestents",
+    "alias": "assestents",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Assestents\\App\\Providers\\AssestentsServiceProvider"
+    ],
+    "files": []
+}

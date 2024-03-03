@@ -1,0 +1,16 @@
+{
+    "Doctor": true,
+    "Employees": true,
+    "Assestents": true,
+    "Patients": true,
+    "Parint": true,
+    "Admin": true,
+    "MedicalSpecialtys": true,
+    "Settings": true,
+    "Prescriptions": true,
+    "Session": true,
+    "Package": true,
+    "Wallet": true,
+    "Booking": true,
+    "TreatmentSession": true
+}
